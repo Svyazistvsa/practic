@@ -1,0 +1,8 @@
+.var {
+  width: var(--value);
+  height: var(--value);
+  border: black 1px solid;
+  border-radius: 10px;
+  background: green;
+  margin: 10px auto;
+}

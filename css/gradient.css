@@ -1,0 +1,18 @@
+.screen {
+  width: 250px ;
+  height: 250px;
+  border: 2px solid black;
+  border-radius: 20px;
+  transition: all 0.5s;
+  margin: 10px auto;
+}
+
+.gradient {
+  background: linear-gradient(0deg, yellow 0%, red 50%, yellow 100%);
+  background-size: 150%;
+}
+
+.gradient:hover {
+  background-position-y: 40px;
+}
+

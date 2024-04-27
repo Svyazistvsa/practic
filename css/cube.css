@@ -27,7 +27,7 @@
 }
 
 .container{
-    position: absolute;
+    position: relative;
     top: 150px;
     left: calc((100vw - 300px) / 2);    
     perspective: 1000px;
